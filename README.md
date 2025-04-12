@@ -7,7 +7,7 @@ The package factorial is used to:
   - calculo da combinacao de n elementos tomados de p em p
 	saída:
 	- f
-  - c
+  	- c
 	
 
 ## Installation
